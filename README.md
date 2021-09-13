@@ -10,6 +10,8 @@ based on [Hugging Face Transformers Package &#8211; What Is It and How To Use It
 pipenv install
 pipenv install transformers
 pipenv install tensorflow
+
+# note first run will download the [pipeline] model (potentially time consuming) on first run
 pipenv run python main.py
 ```
 
