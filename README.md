@@ -4,6 +4,11 @@ learn [hugging face](https://huggingface.co/) transformers (transfer learning)
 
 based on [Hugging Face Transformers Package &#8211; What Is It and How To Use It - KDnuggets](https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html)
 
+
+* NLP researchers and educators seeking to use/study/extend large-scale transformers models
+* hands-on practitioners who want to fine-tune those models and/or serve them in production
+* engineers who just want to download a pretrained model and use it to solve a given NLP task.
+
 ## Demo
 
 ```sh
