@@ -15,6 +15,8 @@ pipenv install tensorflow
 pipenv run python main.py
 ```
 
+![](https://www.evernote.com/l/AAGJ7GymnFRD87nLrwZ1ehn0FHn-GnjiqicB/image.png)
+
 ## Resourcces
 
 * [Hugging Face – The AI community building the future.](https://huggingface.co/)
