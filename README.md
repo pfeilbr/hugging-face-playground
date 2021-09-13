@@ -1,6 +1,6 @@
 # hugging-face-playground
 
-learn hugging face transformers (transfer learning)
+learn [hugging face](https://huggingface.co/) transformers (transfer learning)
 
 based on [Hugging Face Transformers Package &#8211; What Is It and How To Use It - KDnuggets](https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html)
 
