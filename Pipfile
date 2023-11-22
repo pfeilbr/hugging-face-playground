@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 tensorflow = "*"
 transformers = {extras = ["torch"], version = "*"}
+accelerate = "*"
+datasets = "*"
+evaluate = "*"
 
 [dev-packages]
 
