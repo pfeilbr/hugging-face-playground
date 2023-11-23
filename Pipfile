@@ -3,12 +3,18 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+[[source]]
+url = "https://test.pypi.org/simple/"
+verify_ssl = true
+name = "testpypi"
+
 [packages]
 tensorflow = "*"
 transformers = {extras = ["torch"], version = "*"}
 accelerate = "*"
 datasets = "*"
 evaluate = "*"
+bitsandbytes = {version = "*", index = "testpypi"}
 
 [dev-packages]
 
